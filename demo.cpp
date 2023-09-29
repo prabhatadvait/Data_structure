@@ -1,1 +1,0 @@
-print("checking dsa connection")
